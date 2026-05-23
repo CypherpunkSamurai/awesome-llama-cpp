@@ -166,14 +166,14 @@ Fused TBQ4 Flash Attention + MTP + Shared Tensors for llama.cpp. Achieves 82+ to
 
 ---
 
-### [destroyor/llama.cpp-mtp-turboquant-vulkan](https://github.com/destroyor/llama.cpp-mtp-turboquant-vulkan)
+### [destroyor/llama.cpp-mtp-turboquant-vulkan](https://github.com/destroyor/llama.cpp-mtp-turboqutant-vulkan)
 
 <p>
-  <a href="https://github.com/destroyor/llama.cpp-mtp-turboquant-vulkan">
-    <img src="https://img.shields.io/github/stars/destroyor/llama.cpp-mtp-turboquant-vulkan?style=social" alt="GitHub stars">
+  <a href="https://github.com/destroyor/llama.cpp-mtp-turboqutant-vulkan/">
+    <img src="https://img.shields.io/github/stars/destroyor/llama.cpp-mtp-turboqutant-vulkan?style=social" alt="GitHub stars">
   </a>
-  <a href="https://github.com/destroyor/llama.cpp-mtp-turboquant-vulkan">
-    <img src="https://img.shields.io/github/last-commit/destroyor/llama.cpp-mtp-turboquant-vulkan" alt="Last commit">
+  <a href="https://github.com/destroyor/llama.cpp-mtp-turboqutant-vulkan/">
+    <img src="https://img.shields.io/github/last-commit/destroyor/llama.cpp-mtp-turboqutant-vulkan" alt="Last commit">
   </a>
 </p>
 
